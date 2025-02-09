@@ -8,14 +8,14 @@
   <img src="<sahil_photo_link>" alt="Sahil" width="150"/>  
 </div>
 
-1. **Shreyas Kumar** (Reg No: `<your_reg_no>`)  
-2. **Shivanya Shomir Dutta** (Reg No: `<shivanya_reg_no>`)  
-3. **Sahil <Last Name>** (Reg No: `<sahil_reg_no>`)  
+1. **Shreyas Kumar** (Reg No: 23BAI1008)  
+2. **Shivanya Shomir Dutta** (Reg No: 23BAI1424)  
+3. **Sahil <Last Name>** (Reg No: 23BAI1405)  
 
 ---
 
 ## 📌 Project Overview  
-- **Course Code:** BCS203E  
+- **Course Code:** BCSE203E  
 - **Project Name:** **<Your Web Programming Project Title>**  
 - **Description:** A feature-rich social media application that enhances user engagement with modern web technologies.  
 
